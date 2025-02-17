@@ -1,7 +1,7 @@
 import React from 'react';
 import {Button} from '@/components/ui/button';
 
-const Page = () => {
+const CreateEventPage = () => {
   return (
     <div className="min-h-screen bg-gray-900 py-12 px-4">
       <div className="max-w-4xl mx-auto bg-gray-800 p-8 rounded-lg shadow-lg">
@@ -81,4 +81,4 @@ const Page = () => {
   );
 };
 
-export default Page;
+export default CreateEventPage;
