@@ -1,4 +1,4 @@
-# 10x Club
+# Event Management website
 
 10x Club is an all-in-one platform for managing and discovering amazing events. This project is built using TypeScript, React, and Next.js.
 
