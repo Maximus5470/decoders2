@@ -19,5 +19,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-Maximus5470/decoders2.git
+   git clone https://github.com/Maximus5470/decoders2.git
    cd decoders2
