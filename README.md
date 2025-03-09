@@ -14,6 +14,7 @@
 - **Languages**: TypeScript, JavaScript
 - **Frameworks**: React, Next.js
 - **Package Manager**: npm
+- **Other Tools**: Sentry, Sanity
 
 ## Installation
 
